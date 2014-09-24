@@ -1,9 +1,10 @@
 .header {
     background-color: purple;
-    background-image: url(https://media.giphy.com/media/pa37AAGzKXoek/giphy.gif);
-    height: 350px;
+    background-image: url(http://freetwitterheaders.com/wp-content/uploads/2012/09/Golden-Gate-Bridge.jpg);
+    min-height: 350px;
     background-size: cover;
     background-position: 0px 5%;
+
 }
 
 .nav {
@@ -27,10 +28,26 @@
 	vertical-align: top;
 }
 
+h1 {
+	font-size:40px;
+	font-weight:bold;
+
+}
+h2 {
+	font-size:40x;
+	font-weight:bold;
+
+}
+
 .right-column {
 	display: inline-block;
 	min-height: 1000px;
 	background-color: red;
 	width: 69%;
 	vertical-align: top;
+}
+
+.footer {
+	background-color:green;
+
 }
